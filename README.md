@@ -14,8 +14,7 @@ optional arguments:<br>
   -fig                  Show graphs with Matplotlib <br>
   -tikz                 Export graphs in tikz <br>
   -mirror               Show the graph upside down <br>
-  -tikz_scale TIKZ_SCALE <br>
-                        Scale tikz figures <br>
+  -tikz_scale TIKZ_SCALE  Scale tikz figures <br>
   -root ROOT            The root node <br>
   -log LOG              The logging level: 1- main info, 3- detailed <br>
   -file FILE            The input .json network file <br>
@@ -41,8 +40,7 @@ optional arguments: <br>
   -h, --help            show this help message and exit <br>
   -fig                  Show graphs with Matplotlib <br>
   -tikz                 Export graphs in tikz <br>
-  -tikz_scale TIKZ_SCALE <br>
-                        Scale tikz figures <br>
+  -tikz_scale TIKZ_SCALE Scale tikz figures <br>
   -mirror               Show the graph upside down <br>
   -log LOG              The logging level: 1- main info, 3- detailed <br>
   -wa WA                The weight in ILP for variable a <br>
